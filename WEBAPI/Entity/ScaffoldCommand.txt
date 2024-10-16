@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=127.0.0.1;database=Task;user=root;password=root" Pomelo.EntityFrameworkCore.MySql -OutputDir Entity -Force
